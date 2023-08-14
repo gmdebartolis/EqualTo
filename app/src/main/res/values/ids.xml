@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="botonComparar" type="id" />
+    <item name="textoResultado" type="id" />
+    <item name="inputDos" type="id" />
+    <item name="inputUno" type="id" />
+</resources>
